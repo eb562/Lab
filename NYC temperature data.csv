@@ -1,4 +1,4 @@
-date,max temperature (deg F),min temperature (deg F),precipitation,snowfall,snow depth
+date,max temperature (deg F),min temperature (deg F),precipitation (in),snowfall (in),snow depth (in)
 1/22/2000,20,8,0,0,0
 1/22/2001,36,22,0,0,M
 1/22/2002,47,37,0,0,1
